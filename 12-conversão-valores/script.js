@@ -1,0 +1,3 @@
+- cosnole.log("5" * 4) //  0
+- console.log("5" - 20) //  2
+- console.log("auds" *  1) //  51
