@@ -1,0 +1,1 @@
+console.log(134 * "Não e um numero");
